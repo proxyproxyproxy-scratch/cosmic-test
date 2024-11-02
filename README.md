@@ -1,3 +1,15 @@
+# サイトをつくってみて思ったこと
+## interstellarと同じやんなんか違うの(indexにJavaでかっこよくしただけやん)
+## そのせいで余計ラグい(Simple is best! ...?)
+## それでcosmicっ。。。。。<検閲により削除>。。。。？
+
+はい、あんまり言いすぎてアカバンされても恐いのでこれぐらいにしておきます。
+# [重要] このプロキシを複製しようとしている人、Useinterstellarさんの　interstellarv4 を複製しましょう。　
+以上です
+
+
+<ここから下は原文のままです>
+
 <div align="center">
     <h1>Cosmic</h1>
     <p>Cosmic is a web proxy with a Clean and Sleek UI and easy to use menus.</p>
